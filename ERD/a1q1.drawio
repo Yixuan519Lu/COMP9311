@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T05:34:39.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jtyMXQnj14V6kSU2fbO-" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T05:40:41.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="24iUKxOBEcnB5mV-Fu0v" version="24.4.14" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="882" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -427,7 +427,7 @@
         <mxCell id="vBF5v3Q-Qyy129h_z25D-119" value="Manages" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="680" y="325" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vBF5v3Q-Qyy129h_z25D-146" value="Assumption: &lt;br&gt;1.date and time is a simple attribute since the question asked&amp;nbsp;Do not add any entities or attributes to the ER diagram unless they are explicitly mentioned in the question.&lt;br&gt;2. shipping address is a simple attributes&lt;div&gt;3.&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px;&quot;&gt;instance must in a warehouse&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="vBF5v3Q-Qyy129h_z25D-146" value="Assumption: &lt;br&gt;1.date and time is a simple attribute since the question asked&amp;nbsp;Do not add any entities or attributes to the ER diagram unless they are explicitly mentioned in the question.&lt;br&gt;2. shipping address is a simple attributes for the same reason&lt;div&gt;3.&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px;&quot;&gt;instance must in a warehouse&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="770" width="320" height="150" as="geometry" />
         </mxCell>
       </root>
